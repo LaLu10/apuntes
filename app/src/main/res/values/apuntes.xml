@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources></resources>
+<!--    RETROFIT: una libreria que te facilita herramientas para consumir API-->
+<!--    CORRUTINAS: son una manera de escribir código asíncrono de forma secuencial. En lugar de llenarlo todo de callbacks,-->
+<!--    puedes escribir tus líneas de código una detrás de otra. Algunas de ellas tendrán la capacidad de suspender la ejecución y esperar hasta que el resultado esté disponible.-->
+<!--    COMPANION OBJECT: la representación de un miembro que se puede llamar directamente del nombre de una clase, sin la creación previa de una instancia de dicha clase-->
+<!--    JSON:  es un formato de intercambio de datos entre clientes y servidores, basado en la sintaxis de Javascript para representar estructuras en forma organizada y alto nivel-->
